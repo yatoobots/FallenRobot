@@ -5,7 +5,7 @@ class Config(object):
     API_ID = 25898978
     API_HASH = "8b0f2179ed27f83222d344bb6959d00c"
 
-    CASH_API_KEY = "none"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
+    CASH_API_KEY = "YatooXD"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = "postgres://lvrxsynk:OMujzREX_Ha1jO2qh20qTmDMAoMRwBbh@trumpet.db.elephantsql.com/lvrxsynk"  # A sql database url from elephantsql.com
 
@@ -18,9 +18,9 @@ class Config(object):
 
     SUPPORT_CHAT = "sympathee"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = "5622905355:AAGeVCGPXE1lo0shkv1IDW9mJ1XPEx3T9j4none"  # Get bot token from @BotFather on Telegram
+    TOKEN = "6264504776:AAEy_sOU9fckQyH6GD7ZBN1NPhlVAJRDgvo"  # Get bot token from @BotFather on Telegram
 
-    TIME_API_KEY = "none"  # Get this value from https://timezonedb.com/api
+    TIME_API_KEY = "YatooXD"  # Get this value from https://timezonedb.com/api
 
     OWNER_ID = 5264219629  # User id of your telegram account (Must be integer)
 
